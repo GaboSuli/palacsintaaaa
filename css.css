@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(200, 200, 200) ;
+    color: rgb(200, 200, 200) ;
+    max-width: 1000px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kozep
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.tartalom
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+h1
+{
+    text-align: center;
+}
+h1,h2,h3,h4
+{
+    text-transform: uppercase;
+}
+img
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
